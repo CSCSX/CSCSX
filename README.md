@@ -6,6 +6,7 @@
 - 💻 1st-year PhD student in Computer Science, Peking University
 - 🔭 Currently working on Embodied AI
 - 📫 Email: cscsxiang@gmail.com
+- 🌐 Website: https://cscsx.github.io/
 
 Languages and Tools:
 
