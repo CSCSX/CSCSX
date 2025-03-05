@@ -7,6 +7,7 @@
 - 🔭 Currently working on Embodied AI
 - 📫 Email: cscsxiang@gmail.com
 - 🌐 Website: https://cscsx.github.io/
+- 🔬 Lab: https://pku-hmi-lab.github.io/HMI-Web/
 
 Languages and Tools:
 
